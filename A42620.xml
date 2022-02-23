@@ -1,0 +1,542 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Genteel house-keepers pastime, or, The mode of carving at the table represented in a pack of playing cards by which together with the instructions in this book any ordinary capacity may easily learn how to cut up or carve in mode all the most usual dishes of flesh, fish, fowl, and baked meats, and how to make the several services of the same at the table, with the several sawces and garnishes proper to each dish of meat / set forth by the best masters in the faculty of carving and published for publick use.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42620</idno>
+            <idno type="STC">Wing G521</idno>
+            <idno type="STC">ESTC R25457</idno>
+            <idno type="EEBO-CITATION">08963386</idno>
+            <idno type="OCLC">ocm 08963386</idno>
+            <idno type="VID">42120</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42620)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42120)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1285:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Genteel house-keepers pastime, or, The mode of carving at the table represented in a pack of playing cards by which together with the instructions in this book any ordinary capacity may easily learn how to cut up or carve in mode all the most usual dishes of flesh, fish, fowl, and baked meats, and how to make the several services of the same at the table, with the several sawces and garnishes proper to each dish of meat / set forth by the best masters in the faculty of carving and published for publick use.</title>
+               </titleStmt>
+               <extent>46 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Moxon,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Carving (Meat, etc.)</term>
+               <term>Cookery.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42120:1"/>
+            <pb facs="tcp:42120:1" rendition="simple:additions"/>
+            <p>THE Genteel Houſe-keepers PASTIME: Or, the Mode of Carving at the Table Repreſented in a Pack OF PLAYING CARDS. By which, together with the Inſtructions in this Book, any ordinary Capacity may eaſily learn how to Cut up or Carve in Mode all the moſt uſual Diſhes of <hi>Fleſh, Fiſh, Fowl,</hi> and <hi>Baked Meats;</hi> and how to make the ſeveral Services of the ſame at the Table; with the ſeveral Sawces and Garniſhes proper to each Diſh of Meat. Set forth by ſeveral of the beſt Maſters in the Faculty of Carving, and Publiſhed for publick Uſe.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Moxon,</hi> and ſold at his Shop at the <hi>Atlas</hi> in <hi>Warwick-lane;</hi> and at the three <hi>Bells</hi> in <hi>Ludgate-ſtreet</hi> 1693.</p>
+         </div>
+      </front>
+      <body>
+         <div type="preface">
+            <pb facs="tcp:42120:2"/>
+            <pb n="1" facs="tcp:42120:2"/>
+            <head>OF CARVING In General.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Arving at the Table is an or<g ref="char:EOLhyphen"/>derly and me<g ref="char:EOLhyphen"/>thodical Cutting and Dividing a<g ref="char:EOLhyphen"/>ny Diſh of Meat, whether it be Fleſh, Fiſh, Fowl, or Bak'd Meats, into ſo many Services as each diſh of Meat will conveniently admit of: and the doing this neatly and cleanli<g ref="char:EOLhyphen"/>ly, is worthily accounted a great Imbelliſhment to Man or Woman.
+<pb n="2" facs="tcp:42120:3"/> Nor is the labour and pains taken about it, loſt, or uſeleſs: for by good Carving, a diſh of Meat is improved ſo, as (according to its ſize) it may decently appear at the Table to the laſt: when as the diſorderly mangling a Joynt or Diſh of good meat, is not onely an unthrifty waſting of it, but ſometimes the cauſe of loath<g ref="char:EOLhyphen"/>ing, to a curious Obſerver, or a weak ſtomack. <g ref="char:V">Ʋ</g>pon ſuch con<g ref="char:EOLhyphen"/>ſiderations as theſe, hath the wiſdome of the Grandees of for<g ref="char:EOLhyphen"/>mer Ages of great antiquity e<g ref="char:EOLhyphen"/>lected Carvers at their Tables: And though we might plead this by many teſtimonies, even from <hi>Moſes</hi> time, who was inſtructed
+<pb n="3" facs="tcp:42120:3"/> by God Almighty himſelf what parts to make choice of for his own Offerings and Services, what for the Levites, and what for the People; yet we ſhall onely inſtance in one Grandee of our own Nation, <hi>viz. George Nevil</hi> Chancellor of <hi>England</hi> &amp; Arch<g ref="char:EOLhyphen"/>biſhop of <hi>York,</hi> who honoured the Lord <hi>Willoughby</hi> with the Title of Carver to his Table, at a great Feaſt made by him in the year 1468 ſo that we ſee the Office of a Caver is not onely antient, neceſſary, and profitable, but honorable too. And the <hi>Germans</hi> at this day have ſo much eſteem of good Carving, that it is as cuſtomary among
+<pb n="4" facs="tcp:42120:4"/> them to provide Tutors to teach their Children this faculty, as other genteel Accompliſhments.</p>
+            <p>I may farther, in the praiſe of good Carving, ſay, that it is an <hi>Anatomical</hi> Art, and teach<g ref="char:EOLhyphen"/>es its Practitioners to know the Diſſection of Parts, the ſcitua<g ref="char:EOLhyphen"/>tion of Joynts and Ligaments, and the true poſition of the (at leaſt) eminent Muſcles. Nor does it ſhut out the moſt excellent Sci<g ref="char:EOLhyphen"/>ences of <hi>Arithmetick</hi> and <hi>Geo<g ref="char:EOLhyphen"/>metry:</hi> for the skillful Carver knows how to proportion his ſe<g ref="char:EOLhyphen"/>veral dividends of Services ac<g ref="char:EOLhyphen"/>cording to the number of Gueſts at the Table, and like a good Harauld can diſpoſe the beſt of
+<pb n="5" facs="tcp:42120:4"/> Delicacies to the moſt eminent Perſons.</p>
+            <p>Theſe and ſome other conſi<g ref="char:EOLhyphen"/>derations, have induced me to ſet forth this brief Lecture of Carving, according to the Rules and Methods obſerved here in <hi>England</hi> by the beſt Proficients in this Faculty, relating not one<g ref="char:EOLhyphen"/>ly to our famous City of <hi>London,</hi> but to his Majesties Royal Court and Palace of <hi>White-hall:</hi> and I hope no ingenious Perſon will blame me for this my Publica<g ref="char:EOLhyphen"/>tion, there having hitherto no<g ref="char:EOLhyphen"/>thing of this nature been expo<g ref="char:EOLhyphen"/>ſed in our Nation; nor for de<g ref="char:EOLhyphen"/>monſtrating this Faculty on cu<g ref="char:EOLhyphen"/>rious engraven Cuts, accommo<g ref="char:EOLhyphen"/>dated
+<pb n="6" facs="tcp:42120:5"/> to <hi>Playing Cards,</hi> ſince they are full as intelligible as if they were Printed in the Book, and more eaſie to peruſe when you read upon each Card: be<g ref="char:EOLhyphen"/>cauſe you may hold the Card in your hand all the while you are reading the Rules relating to it, though it be for many leaves, without being troubled to turn backward or forward to the Fi<g ref="char:EOLhyphen"/>gure. Beſides, theſe Cards do not onely perform the office of other Playing Cards, but the variety of Pictures of good Cheer on them, will doubtleſs oft prove the cauſe of adding Mirth and Jocularity to your ſociable and harmleſs Recreation.</p>
+            <pb n="7" facs="tcp:42120:5"/>
+            <p>The method I have uſed in the Diſpoſing of theſe ſeveral Diſhes of Meat, is thus: All the <hi>Fowl</hi> is ranged amongst the ſuit of <hi>Diamonds;</hi> and on thoſe Cards are placed a <hi>Diamond</hi> at the left-hand-corner of the ſaid Card on the top. All the fleſh of <hi>Beaſts,</hi> among the ſuit of <hi>Hearts.</hi> All the <hi>Fiſh,</hi> among the ſuit of <hi>Clubs.</hi> All the <hi>Baked Meats,</hi> amons the ſuit of <hi>Spades.</hi> And the number of each ſuit is noted, on the right-hand of the <hi>Diamond, Heart, Club,</hi> or <hi>Spade,</hi> with Numerical Let<g ref="char:EOLhyphen"/>ters, as, <hi>I, II, III, IIII, V,</hi> &amp;c. to <hi>X.</hi> And the Kings, Queens, and Knaves are noted with the
+<pb n="8" facs="tcp:42120:6"/> Pictures of a King with a Crown on his head, and a Scepter in his hand: A Queen, with a Crown on her head: The Knave, a Mans Head with a Feather in his Cap, and a Sword in his hand. The manner of playing with them at any Game, is the ſame as with other Cards.</p>
+            <div type="part">
+               <head>The Office of a <hi>Carver.</hi>
+               </head>
+               <p>HE muſt be provided with good ſharp Knives of ſeveral ſizes; that he may chuſe great Knives for great Diſhes of meat, as for Veniſon, Sir-loins
+<pb n="9" facs="tcp:42120:6"/> of Beef, Gammons of Bacon, <hi>&amp;c.</hi> And ſmall Knives for ſmaller Diſhes of Meat, as Ca<g ref="char:EOLhyphen"/>pons, Pullets, or ſmaller Fowls: He muſt alſo be provided of Forks of ſeveral ſizes, that he may ſuit himſelf with one ſizable to the Diſh of Meat he is to practice upon. He is to keep himſelf neat and cleanly, and not to touch the Meat with his Fingers, more than needs muſt, and then onely with his Fore-finger and Thumb; or in ſome caſes, with his two Fore<g ref="char:EOLhyphen"/>fingers and Thumb at the most; but to uſe his Fork and Knife inſtead of his Fingers. His place is to ſtand on the left hand
+<pb n="10" facs="tcp:42120:7"/> of his Lord, with a clean Nap<g ref="char:EOLhyphen"/>kin on his left Shoulder; and to exerciſe the faculty of <hi>Carving,</hi> with Comelineſs and Dexterity, that he make not the Guests ſtay too long for their Services, nor offend them with his unde<g ref="char:EOLhyphen"/>cent managery.</p>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="11" facs="tcp:42120:7"/>
+            <head>Firſt of Fowls, anſwering to the ſuit of <hi>Diamonds.</hi>
+            </head>
+            <div type="subpart">
+               <head>To cut up the <hi>Turkey.</hi>
+               </head>
+               <p>A <hi>Turkey</hi> is brought to the Table lying on its Back. Thruſt your Fork into the Breaſt-bone (as at figure 1.) to hold it faſt; and make your firſt cut at figure 2. and cut between the Thigh and Breaſt (to figure 3.) next to your Body, directing the edge of your Knife from the Rump upwards. Take your next cut from figure 4. at the Rump, and cut through the whole Breaſt to figure 5. and there cut through the jovnt of the Wing; but if you hit
+<pb n="12" facs="tcp:42120:8"/> not the Joynt by drawing your Knife towards figure 5, remove your Fork to figure 6 in the Wing, and turn the <hi>Turkey</hi> on its oppoſite ſide; and then cut through the joynt from figure 5 (as you may ſee in the <hi>Ca<g ref="char:EOLhyphen"/>pon,</hi> which therefore is turn'd on its Breaſt) downwards. You may ac<g ref="char:EOLhyphen"/>cording to the bigneſs of your <hi>Turkey,</hi> take one Service or two more off the Breaſt, by making another cut through the whole length of the <hi>Turkey,</hi> from the Rump up towards the Neck, parallel to the cut 4, 5. as at 12, 13. Thus have you one ſide cut up: the other ſide is cut up in the ſame manner. Then ſtab your Knife at figure 7, and raiſe the Merry-thought, and with your Fork part it from thence upwards to the Neck, by figure 5, 8. Then place your Fork at figure 9 in the Thigh, and turn the <hi>Turkey</hi> with its Back towards you, and cut on the back<g ref="char:EOLhyphen"/>ſide
+<pb n="13" facs="tcp:42120:8"/> downwards, from figure 3, to the joynt towards figure 2; and then from figure 2 to the ſame joynt to<g ref="char:EOLhyphen"/>wards figure 3, and ſo part the firſt Thigh from the Carcaſs: but if it part not eaſily, thruſt the point of your Knife through the Carcaſe, as at figure 10, and twiſt your Fork to<g ref="char:EOLhyphen"/>wards your body, and with that twiſt the Thigh from off the Carcaſs; which lay down in the Diſh. Then remove your Fork to figure 6 again in the Pinion becauſe that part is ſtrongeſt, and will beſt ſecure the <hi>Turkey</hi> from tearing; and turn the Back towards you, and the joynt being divided, cut upon the Back oppoſite to the former cut on the Breaſt, and ſo bring away the Wing with your Fork: which done, place your Fork on the Breaſt where you pleaſe, and cut from the Vent at fi<g ref="char:EOLhyphen"/>gure 11 up towards the middle of the Back-bone. Then place your Fork
+<pb n="14" facs="tcp:42120:9"/> near the Rump in the inſide the Car<g ref="char:EOLhyphen"/>caſs, and turn the Breaſt downwards, and with your Knife at the middle of the Back break it, by lifting up your hand that hath the Fork in it.</p>
+               <p>The two Side bones muſt be par<g ref="char:EOLhyphen"/>ted from the Rump, by cutting them, either as they lie in the Diſh, or by ſetting the Rump upwards, and cut<g ref="char:EOLhyphen"/>ting ſtraight down either ſide of it a<g ref="char:EOLhyphen"/>long the Back-bone.</p>
+               <p>The two Binding-bones lie on each ſide the Neck. That part of them that lies in the Back, is ſome<g ref="char:EOLhyphen"/>thing like the bones of the Merry<g ref="char:EOLhyphen"/>thought; the other part is fixed to the Breaſt with a ſtrong joynt, which are to be parted by thruſting your Knife under the Back bones from the Neck downwards: Then with your Finger and Thumb of your left hand take hold of the joynt, and placing your Knife on that part of the Car<g ref="char:EOLhyphen"/>caſs
+<pb n="15" facs="tcp:42120:9"/> near where the Merry-thought did lie, and with your Thumb raiſe that bone upwards, which will diſ<g ref="char:EOLhyphen"/>joynt by force, though it be not to be cut with the Knife. The Breaſt is not to be parted from the Back without tearing, but by taking theſe Bones off.</p>
+               <p>Its Garniſh, is either Oranges or Lemmons cut into thin ſlices, and ſo laid round the Diſh.</p>
+               <p>Its Sawce is ſometimes boil'd O<g ref="char:EOLhyphen"/>nions, and ſometimes Anchiovies, with the gravy of the <hi>Turkey.</hi>
+               </p>
+               <p>For Service, the Wing is generally firſt preferr'd. Secondly, The Merry<g ref="char:EOLhyphen"/>thought, and a Side-bone. Thirdly, The Leg. Fourthly, The Breaſt, and one of the binding bones. Fifthly, the Back, and the other Binding bone, and the Rump. To each Service add ſome of your Garniſh.</p>
+               <p>
+                  <hi>See the King of</hi> Diamonds.</p>
+            </div>
+            <div type="subpart">
+               <pb n="16" facs="tcp:42120:10"/>
+               <head>The <hi>Pullet.</hi>
+               </head>
+               <p>THe <hi>Pullet</hi> is Carv'd, Sawc'd, and Garniſh'd as the <hi>Capon.</hi>
+               </p>
+               <p>
+                  <hi>See the Queen of</hi> Diamonds.</p>
+            </div>
+            <div type="subpart">
+               <head>The <hi>Capon.</hi>
+               </head>
+               <p>THe <hi>Capon</hi> is Carved like the <hi>Tur<g ref="char:EOLhyphen"/>key;</hi> only you muſt not take a ſlice off the Breaſt as you did off the breaſt of the <hi>Turkey,</hi> becauſe the Wing will then be too little for a con<g ref="char:EOLhyphen"/>venient Service.</p>
+               <p>Its Sawce is Water and Pepper ſea<g ref="char:EOLhyphen"/>ſoned with a little Salt: Or at ſome great Feaſts, a little White Manchet ſoak'd in ſtrong Onion-broth, and boil'd up in Gravy with a little Lem<g ref="char:EOLhyphen"/>mons. Nutmeg, and Butter, put into the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</p>
+               <p>Its Garniſh is Oranges or Lemons <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> laid round the</p>
+               <pb n="17" facs="tcp:42120:10"/>
+               <p>
+                  <hi>See the Knave of</hi> Diamonds.</p>
+            </div>
+            <div type="subpart">
+               <head>The <hi>Chicken.</hi>
+               </head>
+               <p>THe <hi>Chicken,</hi> if it be large, is Car<g ref="char:EOLhyphen"/>ved like the <hi>Capon;</hi> but if it be ſmall, it is only cut through from the Rump to the Neck.</p>
+               <p>Its Sawce is the ſame with the <hi>Pul<g ref="char:EOLhyphen"/>let,</hi> if the <hi>Chicken</hi> be large; but if ſmall, Butter and Vinegar, with a little minc'd Parſley.</p>
+               <p>For great Feaſts, they ſometimes take an handful of Parſley and mince it ſmall, and wrap it up into a Ball with grated Nutmeg, and ſo put it into the belly of the <hi>Chicken</hi> before it is ſpitted, and take it out when it is drawn; and and putting ſome Butter into it, pour it all into the Diſh.</p>
+               <p>
+                  <hi>See the Ten of</hi> Diamonds.</p>
+            </div>
+            <div type="subpart">
+               <pb n="18" facs="tcp:42120:11"/>
+               <head>A <hi>Gooſe.</hi>
+               </head>
+               <p>A <hi>Gooſe</hi> is Carved like the <hi>Turkey,</hi> only you may take a cut more off the Breaſt: but you muſt take heed that you ſpoil not the Merry<g ref="char:EOLhyphen"/>thought by it; therefore cut no higher than to figure 7, and turn off there to<g ref="char:EOLhyphen"/>wards the Pinion, as you may ſee in the Figure. The Merry thought of the <hi>Gooſe</hi> lies nearer the Neck than any other Fowl, except <hi>Duck</hi> and <hi>Teal.</hi> To raiſe the Merrry<g ref="char:EOLhyphen"/>thought, place the edge of your Knife at figure 8, and ſlope the back of your Knife towards the Neck; and having en<g ref="char:EOLhyphen"/>ter'd the Merry-thought, turn the back of your Knife towards the Rump, and with the edge of the Knife raiſe up the Mery-thought.</p>
+               <p>Its Sawce is Apples, either put in<g ref="char:EOLhyphen"/>to the Diſh with the <hi>Gooſe,</hi> or elſe ſet by it in Plates. Some put Butter and
+<pb n="19" facs="tcp:42120:11"/> Sugar to the Apples, others Muſtard. Some uſe only Muſtard for Sawce.</p>
+               <p>For <hi>Green Gooſe,</hi> the Sawce is Gooſ<g ref="char:EOLhyphen"/>berries ſcalded, or green Grapes ſcalded, ſweetned with Sugar.</p>
+               <p>Its Garniſh is Sugar or Salt ſtrow<g ref="char:EOLhyphen"/>ed about the brims of the Diſh.</p>
+               <p>
+                  <hi>See the Nine of</hi> Diamonds.</p>
+            </div>
+            <div type="subpart">
+               <head>The <hi>Duck.</hi>
+               </head>
+               <p>THe <hi>Duck</hi> is carved like the <hi>Gooſe,</hi> except the ſlices taken off the Breaſt.</p>
+               <p>Its Sawce is boil'd Onions butter'd.</p>
+               <p>Its Garniſh is Salt ſtrowed about the brims of the Diſh.</p>
+               <p>
+                  <hi>See the Eight of</hi> Diamonds.</p>
+            </div>
+            <div type="subpart">
+               <head>The <hi>Pheaſant.</hi>
+               </head>
+               <p>THe <hi>Pheaſant</hi> is carved like the <hi>Capon</hi> or <hi>Pullet,</hi> and its Sawce the ſame.</p>
+               <pb n="20" facs="tcp:42120:12"/>
+               <p>
+                  <hi>See the Seven of</hi> Diamonds.</p>
+            </div>
+            <div type="subpart">
+               <head>The <hi>Partridge.</hi>
+               </head>
+               <p>THe <hi>Partridge</hi> is Carved as the <hi>Capon,</hi> and its Sawce the ſame.</p>
+               <p>
+                  <hi>See the Six of</hi> Diamonds.</p>
+            </div>
+            <div type="subpart">
+               <head>The <hi>Teal.</hi>
+               </head>
+               <p>THe <hi>Teal</hi> is Carved ike the <hi>Duck,</hi> and its Sawce the ſame,</p>
+               <p>
+                  <hi>See the Five of</hi> Diamonds.</p>
+            </div>
+            <div type="subpart">
+               <head>The <hi>Pidgeon.</hi>
+               </head>
+               <p>THe <hi>Pigeon</hi> is never Carved, but ſometimes cut through the middle from the Rump to the Neck.</p>
+               <p>Its Sawce is the ſame with the <hi>Chicken,</hi> only you muſt add a litle
+<pb n="21" facs="tcp:42120:12"/> minc'd Bacon to your Parſley, with a little Mint before they are roaſted.</p>
+               <p>
+                  <hi>See the Four of</hi> Diamonds.</p>
+            </div>
+            <div type="subpart">
+               <head>The <hi>Plover.</hi>
+               </head>
+               <p>THe <hi>Plover</hi> is Carved like a <hi>Capon,</hi> and its Sawce the ſame with the <hi>Duck.</hi>
+               </p>
+               <p>
+                  <hi>See the Three of</hi> Diamonds.</p>
+            </div>
+            <div type="subpart">
+               <head>The <hi>Snite.</hi>
+               </head>
+               <p>THe <hi>Snite</hi> is Carved like the <hi>Capon,</hi> and its Sawce the ſame with the <hi>Duck.</hi>
+               </p>
+               <p>
+                  <hi>See the Duck of</hi> Diamonds.</p>
+            </div>
+            <div type="subpart">
+               <head>The <hi>Wood-cock.</hi>
+               </head>
+               <p>THe <hi>Wood-cock</hi> is Carved like the <hi>Capon,</hi> and its Sawce the ſame.</p>
+               <p>
+                  <hi>See the Ace of</hi> Diamonds.</p>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="22" facs="tcp:42120:13"/>
+            <head>Secondly, Of the Fleſh of Beaſts, anſwering to the Suit of <hi>Hearts.</hi>
+            </head>
+            <div type="subpart">
+               <head>To Carve the <hi>Sir Loyn of Beef.</hi>
+               </head>
+               <p>THe Loyn of <hi>Beef</hi> was, for the delicacy of its Fleſh, and the ſtatelineſs of its Appearance, Dignified by King <hi>James</hi> the Firſt with the Title of <hi>Sir Loyn of Beef.</hi> It is brought to the Table with its hol<g ref="char:EOLhyphen"/>low ſide downwards. To Carve this, draw a long Cut almoſt through the whole length, as from figure 1 to fi<g ref="char:EOLhyphen"/>gure 2, about the depth of two fin<g ref="char:EOLhyphen"/>gers; then from this Cut at figure 3, cut downwards a hole in the Back to figure 4; which ſhall be one good Service. Into this hole will run a great deal of Gravie, let out at the long Cut figure 1, 2. Your ſecond
+<pb n="23" facs="tcp:42120:13"/> Service is beſide the former hole, as from 4 to 5. The third from 5 to 6, and ſo forwards as many Services as is convenient. And to each Service you muſt, from figure 7, cut a piece of Fat, and with a ſpoon take Gravie out of the hole cut at 3, 4. But the moſt delicate and tender Bits are on the other ſide of the <hi>Sir Loyn</hi> all a<g ref="char:EOLhyphen"/>long the Chine.</p>
+               <p>In private Families the <hi>Sir Loyn</hi> of <hi>Beef</hi> is commonly begun to be cut up in the inſide, that it may with the more Credit be the ofter brought to the Table; and then you are to ſet the <hi>Sir Loyn</hi> on its Chine, and begin with the Fleſh near the Back bone, and ſo proceed to your ſeveral Ser<g ref="char:EOLhyphen"/>vices.</p>
+               <p>The Sawce is Vinegar and Pepper, or ſometimes Vinegar alone.</p>
+               <p>
+                  <hi>See the King of</hi> Hearts.</p>
+            </div>
+            <div type="subpart">
+               <pb n="24" facs="tcp:42120:14"/>
+               <head>Haunch of <hi>Veniſon.</hi>
+               </head>
+               <p>HAunch of <hi>Veniſon</hi> is begun to be cut near the Buttock, as from 1 to 2, and from 1 to 3, which is one good Service; from 1 to 4 is another Service, and ſo on, on either ſide 2, 3, as many Services as it will admit of: But if the <hi>Veniſon</hi> cut not fat enough in this place, you muſt turn the Haunch, and cut Fat to add to every Service.</p>
+               <p>The Sawce is grated bread boil'd and coloured either with Claret<g ref="char:EOLhyphen"/>wine, Cynamon, or Sanders, and ſweetned with white Sugar: Yet the moſt uſual Sawce now-a-days is An<g ref="char:EOLhyphen"/>chovies, and the Gravie of the Ve<g ref="char:EOLhyphen"/>niſon, and a little Vinegar.</p>
+               <p>
+                  <hi>See the Queen of</hi> Hearts.</p>
+            </div>
+            <div type="subpart">
+               <head>The Gammon of <hi>Bacon.</hi>
+               </head>
+               <p>THe Gammon of <hi>Bacon</hi> hath its Skin firſt taken off, and then
+<pb n="25" facs="tcp:42120:14"/> laid in the Diſh with its outſide up<g ref="char:EOLhyphen"/>wards. You firſt cut out a round piece at figure 1 for the firſt Service. For the ſecond Service you are to cut round about the hole your firſt Ser<g ref="char:EOLhyphen"/>vice was taken out of; and ſo for your third, fourth, or fifth Service, or as many as you pleaſe.</p>
+               <p>Another way of Carving the Gammon of <hi>Bacon</hi> is, the Coat being ſtrip'd off, to cut it as the Haunch of <hi>Veniſon;</hi> only they begin it a little nearer to the Knuckle.</p>
+               <p>The Sawce is Muſtard or Vinegar.</p>
+               <p>But if <hi>Weſtphalia Ham,</hi> the skin is left on, and then cut as before.</p>
+               <p>
+                  <hi>See the Knave of</hi> Hearts.</p>
+            </div>
+            <div type="subpart">
+               <head>Shoulder of <hi>Mutton.</hi>
+               </head>
+               <p>SHoulder of <hi>Mutton</hi> is brought to the Table with the out-ſide up<g ref="char:EOLhyphen"/>ward. It is a Diſh of meat ſeldom
+<pb n="26" facs="tcp:42120:15"/> uſed at publick Tables, but in private Families; and is then begun to be car<g ref="char:EOLhyphen"/>ved with a cut from 1, to 2, and from 3 to 2, for the firſt Service: The ſe<g ref="char:EOLhyphen"/>cond Service, from 4 to 2: The third, from 5 to 2; and ſo on, as far as you can for the Blade-bone.</p>
+               <p>It is alſo ſometimes begun to be carved on the inſide; and then you ſlice the fleſh off in convenient Ser<g ref="char:EOLhyphen"/>viices till you come to the Blade-bone.</p>
+               <p>Its Sawce is either Anchiovies, or pickled Cucumbers, Capers, Water and Onion; or ſeveral other ſharp Sawces, according to the palates of the Gueſts. <hi>See the Ten of</hi> Hearts.</p>
+            </div>
+            <div type="subpart">
+               <head>Ribs of <hi>Beef.</hi>
+               </head>
+               <p>RIbs of <hi>Beef</hi> are brought to the Table with the the hollow-ſide downwards. When it is begun to be carved at Great Mens Tables, you
+<pb n="27" facs="tcp:42120:15"/> make the firſt cut on the outſide the Ribs, as at 1, 2, for the firſt Service; and ſo proceed to cut your ſeveral Ser<g ref="char:EOLhyphen"/>vices about the firſt, as you were di<g ref="char:EOLhyphen"/>rected in the <hi>Gammon of Bacon.</hi> But in privat Families it's begun on either of the brown ſides near the Chine, and ſo ſlic'd out into convenient Services. But the moſt delicate bits are in the under-ſide near the Chine.</p>
+               <p>Its Sawce is the ſame with the <hi>Sir<g ref="char:EOLhyphen"/>loyn</hi> of <hi>Beef. See the Nine of</hi> Hearts.</p>
+            </div>
+            <div type="subpart">
+               <head>Loyn of <hi>Veal.</hi>
+               </head>
+               <p>THe <hi>Loyn of Veal</hi> is brought to the Table with the outſide upwards; but is carved with the o<g ref="char:EOLhyphen"/>ther, <hi>viz.</hi> the hollow-ſide upwards. Your firſt cut, is a circular cut about the Rump, as from 1 to 2, for the firſt Service. Your ſecond cut, is on the skirty ſide all along the Loyn from 3 to 4, which you lay by:
+<pb n="28" facs="tcp:42120:16"/> And make your other ſeveral Ser<g ref="char:EOLhyphen"/>vices ſtraight through every joynt of the Chine, as you ſee them marked in the Figure.</p>
+               <p>Its Sawce is Butter and Vinegar beaten up thick, or Oranges. Its Garniſh is Oranges or Lemons ſlic'd, and laid about the brims of the Diſh.</p>
+               <p>
+                  <hi>See the Eight of</hi> Hearts.</p>
+            </div>
+            <div type="subpart">
+               <head>Breaſt of <hi>Veal.</hi>
+               </head>
+               <p>A Breaſt of <hi>Veal</hi> is brought to the Table with the outſide up<g ref="char:EOLhyphen"/>wards, and hath firſt its Brisket cut off, as from figure 1 to 2, and the Brisket divided into ſeveral Services, as at 3, 4, 5, <hi>&amp;c.</hi> Then the Ribs are cut down by two's at a time through the Chine. To each Service add ſome of the Sweet-bread as far as it will go.</p>
+               <p>The Sawce and Garniſh is the ſame with a Loyn of <hi>Veal.</hi>
+               </p>
+               <pb n="29" facs="tcp:42120:16"/>
+               <p>
+                  <hi>See the Seven of</hi> Hearts.</p>
+            </div>
+            <div type="subpart">
+               <head>Shoulder of <hi>Veal.</hi>
+               </head>
+               <p>THe Shoulder of <hi>Veal</hi> is brought to the Table with its outſide down<g ref="char:EOLhyphen"/>wards; but is turned to be carved. There are ſo many good bits in a Shoulder of <hi>Veal</hi> (two and fifty the Proverb ſays) that the beginning to carve upon it is not ſo methodically aſſerted, as on many other Joynts; but that, according to the variety of Palats and Fancies, it is variouſly be<g ref="char:EOLhyphen"/>gun. Yet the moſt uſual, is to begin about the thick fleſhy part near the Knuckle, and there to cut in towards the Blade bone; or elſe to cut ſlices off the fleſh of the inſide, to make ſe<g ref="char:EOLhyphen"/>veral Services of.</p>
+               <p>Its Sawce and Garniſh is the ſame with the Loyn of <hi>Veal.</hi>
+               </p>
+               <p>
+                  <hi>See the Six of</hi> Hearts.</p>
+            </div>
+            <div type="subpart">
+               <pb n="30" facs="tcp:42120:17"/>
+               <head>Fore-quarter of <hi>Lamb.</hi>
+               </head>
+               <p>THe Fore-quarter of <hi>Lamb</hi> is brought to the Table with the Ribs downwards. You muſt firſt raiſe the Shoulder, by placing your Fork about the middle of the Blade<g ref="char:EOLhyphen"/>bone, and with your Knife begin to cut at figure 1, round the Shoulder to figure 2; then removing your Fork to the Brisket, as at figure 6, with your Fore-finger and Thumb take hold of the Knuckle-end, and raiſe the Shoulder from the ribs. Then ſtrew a little Salt on the Ribs, and lay the Shoulder on again. Then cut off the Brisket by a cut made from fi<g ref="char:EOLhyphen"/>gure 3 to 4, and divide it into conve<g ref="char:EOLhyphen"/>nient ſervices. The Shoulder is cut into ſervices as the Shoulder of Mut<g ref="char:EOLhyphen"/>ton is, and the Ribs as the Ribs of the Breaſt of Veal. Only inſtead of cut<g ref="char:EOLhyphen"/>ting two Ribs to a ſervice, you muſt cut three or four, according to the
+<pb n="31" facs="tcp:42120:17"/> bigneſs and growth of the Lamb. Its Sawce is all ſorts of Sallads, al<g ref="char:EOLhyphen"/>terable according to fancy and the ſeaſon of the year.</p>
+               <p>Its Garniſh, is Salt ſtrew'd round the brim of the Diſh.</p>
+               <p>
+                  <hi>See the Five of</hi> Hearts.</p>
+            </div>
+            <div type="subpart">
+               <head>The <hi>Boars-Head.</hi>
+               </head>
+               <p>A <hi>Boars-head</hi> comes to the Table with its Snout ſtanding up<g ref="char:EOLhyphen"/>ward, and a ſprig of Roſemary ſtuck in it.</p>
+               <p>The firſt Service is Carv'd out on the Cheek, as from 1 to 2: another ſer<g ref="char:EOLhyphen"/>vice from 3 to 4 towards the Neck. The ſeveral other ſervices you may ſee marked out, the Neck, Nether<g ref="char:EOLhyphen"/>jaw and Snout; and therefore I refer you to the Figure.</p>
+               <p>Its Sawce and Garniſh is the ſame with the <hi>Gammon</hi> of <hi>Bacon.</hi>
+               </p>
+               <p>
+                  <hi>See the Four of</hi> Hearts.</p>
+            </div>
+            <div type="subpart">
+               <pb n="32" facs="tcp:42120:18"/>
+               <head>The <hi>Pig.</hi>
+               </head>
+               <p>THe <hi>Pig</hi> is brought to the Table with the back upwards. The firſt cut is to cut the Head off behind the Ears, as from figure 1 to 2. The ſecond cut is all along through the Back from the Neck to the Tail, as from figure 3 to 4. The two Sides are laid back to back with the Ribs downwards, and its two Ears, being cut off, are laid on the two ſhoulders.</p>
+               <p>
+                  <hi>See the Three of</hi> Hearts.</p>
+            </div>
+            <div type="subpart">
+               <head>The <hi>Coney.</hi>
+               </head>
+               <p>THe <hi>Coney</hi> is moſt times brought to the Table with the Head off, and laid on one ſide of it; except they be ſucking Rabbets, which always are brought to the Table with their Heads on, lying upon their Bellies in the Diſh: and by the Carver are turn<g ref="char:EOLhyphen"/>ed with the Belly upwards, to cut off
+<pb n="33" facs="tcp:42120:18"/> the Skirts on each ſide the Belly, which Skirts are ſometimes ſent away on a Plate from the Table. Then with your Knife raiſe the Kidneys, and turn them inwards towards the Back-bone, and make two cuts from the Neck downwards on either ſide the Back-bone, through the length of the <hi>Coney,</hi> to correſpond with the cuts intended to be made afterwards on the Back. Then turn the <hi>Coney</hi> on its belly again, and placing your Fork on the middle of the back, draw a ſloping cut athwart it, as from figure 1 to 2, and another ſloping from fi<g ref="char:EOLhyphen"/>gure 3 to 4; another cut all along one ſide the Back-bone, as from figure 3 to 5; and another cut along the other ſide the Back bone, as from figure 1 to 6. Then place your Fork in one of the Thighs, as at figure 7, and with your Knife cut through at the hinder joynt, and with your Fork draw that Thigh and Side piece from the Car<g ref="char:EOLhyphen"/>caſs. Then ſever the Thigh from the
+<pb n="34" facs="tcp:42120:19"/> Side-piece, by making a cut on the inſide the Thigh, as at figure 8, and cut to the joynt, and another cut on the outſide the Thigh to figure 9; and with your Fork and Knife ſeparate the Thigh from the Side-piece, and of each make a Service. Do the like by the other Thigh and Side piece. Then place your Fork in one of the Pinions, and cut from 3 to 2, and draw the Wing from the Carcaſs: do the like by the other Wing. Then place your Knife about the middle of the Back-bone on the back, and with your Fork placed under the Rump, rear up the hinder-part of the Chine; and ſo breaking the Back-bone, ſepa<g ref="char:EOLhyphen"/>rate it from the Carcaſs.</p>
+               <p>
+                  <hi>See the Two of</hi> Hearts.</p>
+            </div>
+            <div type="subpart">
+               <head>The <hi>Calves-head</hi> boil'd.</head>
+               <p>A <hi>Calves-head</hi> is brought to the Table with its Cheeks upwards.
+<pb n="35" facs="tcp:42120:19"/> Your firſt Cut is cut out of the fleſhy part of the Cheek, as from figure 1 to 2. Your ſeveral other Services are taken off the Jaw-bone and the Neck, as you may ſee them marked in the Figure. It is commonly boil'd with a piece of Bacon, and therefore each Service hath a piece of Bacon added. The Eyes and the Sweet-tooth are the choiceſt bits.</p>
+               <p>Its Sawce is its Brains mix'd with Sage and Vinegar; and ſometimes inſtead of Vinegar, Butter.</p>
+               <p>
+                  <hi>See the Ace of</hi> Hearts.</p>
+            </div>
+         </div>
+         <div type="part">
+            <head>Thirdly, Of Fiſhes, an<g ref="char:EOLhyphen"/>ſwering to the Suit of <hi>Clubs.</hi>
+            </head>
+            <div type="subpart">
+               <head>Pickled-<hi>Herring.</hi>
+               </head>
+               <p>A <hi>Pickled-Herring</hi> is dreſſed ſeve<g ref="char:EOLhyphen"/>ral ways; but the uſual way
+<pb n="36" facs="tcp:42120:20"/> is to chine it through the Back, and take out all its inwards; then to ſtrip the skin off from the Gills to the Tail, and take out its bone, and ſo cut it athwart the back and belly. Others mince very ſmall and ſerve it with Oyl and Vinegar; and ſometimes they put to the Oyl and Vinegar minc'd Lemmons, Apples, Onions, Cucumbers, <hi>&amp;c.</hi>
+               </p>
+               <p>The <hi>Dutch</hi> way of dreſſing it, is deſcribed in theſe following Verſes.</p>
+               <lg>
+                  <head>Recipe.</head>
+                  <l>A <hi>Pickled-Herring</hi> fat, white, heavy, large;</l>
+                  <l>Cut off his Back, and then his Womb diſ<g ref="char:EOLhyphen"/>charge;</l>
+                  <l>Behead him next, and then his skin off draw.</l>
+                  <l>Thus cleans'd Sup of him either roaſt or raw,</l>
+                  <l>With Onion, and with Country Houſhold bread,</l>
+                  <l>And then diſpoſe your ſelf to reſt in Bed.</l>
+                  <l>This you ſhall find a precious Antidote,</l>
+                  <l>Diſpoſing for a liberal Draught your throat;</l>
+                  <l>Repairing laſt nights rouſe, moiſtning your Palate.</l>
+                  <pb n="37" facs="tcp:42120:20"/>
+                  <l>Drying your head and breaſt from Phlegm and Salate.</l>
+                  <l>Diſcharge the Bladder, and the Colons ſeat,</l>
+                  <l>Of Wind impriſon'd by obdurate Meat.</l>
+                  <l>This Medicine was put in antient Rhime,</l>
+                  <l>By Poet <hi>Lawrence,</hi> in <hi>Duke Arnold</hi>'s time.</l>
+               </lg>
+               <p>See the King of <hi>Clubs.</hi>
+               </p>
+            </div>
+            <div type="subpart">
+               <head>To Carve the <hi>Salmon.</hi>
+               </head>
+               <p>THe <hi>Salmon</hi> is ſlit down the Back with a Scallop cut out and in, and another on either ſide, as you ſee in the Figure. Its Jolle is firſt cut off, and then ſeveral Services cut from the two ſide-ſcallopt-lines towards the Belly and the Back, as you may ſee in the Figure. The moſt convenient Services are marked with the firſt figures, as 1 for the beſt Service, 2 for the next beſt Service, <hi>&amp;c.</hi> And this you muſt remember, that the
+<pb n="38" facs="tcp:42120:21"/> Belly-pieces (as being the fat<g ref="char:EOLhyphen"/>teſt) are the moſt delicate, ex<g ref="char:EOLunhyphen"/>cept it be the Jolle, which is moſt preferr'd, according to an old <hi>Engliſh</hi> Verſe:</p>
+               <lg>
+                  <l>
+                     <hi>The Jolle of a</hi> Salmon, <hi>the Tail of a</hi> Tench,</l>
+                  <l>
+                     <hi>The Back of an</hi> Herring, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+               <p>It is ſerved up with Sippets: And its Sawce is boil'd Oyſters, Shrimps, Anchiovies, Lemmon, <hi>&amp;c.</hi>
+               </p>
+               <p>Its Garniſh, thin roaſted Manch<g ref="char:EOLhyphen"/>et, thin ſcallopt Salmon, Barber<g ref="char:EOLhyphen"/>ries, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>See the Queen of</hi> Clubs.</p>
+            </div>
+            <div type="subpart">
+               <head>The <hi>Pike.</hi>
+               </head>
+               <p>THe <hi>Pike</hi> is brought to the Table as you ſee in the Figure. You muſt take its Bone out, and carve it
+<pb n="39" facs="tcp:42120:21"/> into Services, as you ſee in the nu<g ref="char:EOLhyphen"/>merical Figures.</p>
+               <p>Its Sawce is a little White-wine, Oyſter-liquor, and Butter; into which ſcrape a little Horſe-Radiſh, and grate a little Nutmeg; then put in ſome Anchovies, and beat up al<g ref="char:EOLhyphen"/>together with the Yolks of Eggs, and put them ſo into the Diſh with the <hi>Pike.</hi>
+               </p>
+               <p>For its Garniſh, ſtick it about with fried Bayes, or Roſemary-leaves, and garniſh your Diſh with ſliced Lemons.</p>
+               <p>
+                  <hi>See the Knave of</hi> Clubs.</p>
+            </div>
+            <div type="subpart">
+               <head>Cods-head.</head>
+               <p>A <hi>Cods head</hi> is carved as you ſee in the Figure.</p>
+               <p>Its Sawce is Anchovies, Oyſters boil'd, and Shrimps, with Cinamon, and good ſtore of Butter.</p>
+               <pb n="40" facs="tcp:42120:22"/>
+               <p>Others make Sawce after this man<g ref="char:EOLhyphen"/>ner: They take the meat out of the ſhell of a Crab or two, and put to it about a quart of Cockles taken out of their ſhells, about a quarter of a pint of White-wine, an Onion or two, a bunch of Sweet-herbs, a little whole Mace, and a grated Nut<g ref="char:EOLhyphen"/>meg. Theſe they put into a Pipkin, and put ſome Oyſter-liquor to it, and ſet altogether on the Fire, and let it boil till the Liquor be waſted. Then put good ſweet Butter to it, as much as will ſerve, and then ſerve up the <hi>Cods-head</hi> on Sippets.</p>
+               <p>Its Garniſh is Lemons cut in thin ſlices, and Bay-leaves fried in But<g ref="char:EOLhyphen"/>ter, and ſo ſtuck round the <hi>Cods<g ref="char:EOLhyphen"/>head.</hi>
+               </p>
+               <p>
+                  <hi>See the Ten of</hi> Clubs.</p>
+            </div>
+            <div type="subpart">
+               <pb n="41" facs="tcp:42120:22"/>
+               <head>The <hi>Lobſter.</hi>
+               </head>
+               <p>THe <hi>Lobſter</hi> is brought whole to the Table, and hath no car<g ref="char:EOLhyphen"/>ving in it; only its claws are all broken off, and then the Tail-piece from the Body. The Tail-piece is afterwards opened on the back of it, and ſo laid in the Diſh. The meat in the belly is the moſt delicate of the whole body, and is mingled or tempered with grated Bread and Vinegar.</p>
+               <p>Its Sawce is only Vinegar.</p>
+               <p>Its Garniſh is either Fennel or o<g ref="char:EOLhyphen"/>ther green Herbs.</p>
+               <p>
+                  <hi>See the Nine of</hi> Clubs.</p>
+            </div>
+            <div type="subpart">
+               <head>The <hi>Mackrel,</hi>
+               </head>
+               <p>THe <hi>Mackrel,</hi> if it be brought whole to the Table, eaſily di<g ref="char:EOLhyphen"/>vides it ſelfe into convenient Services,
+<pb n="42" facs="tcp:42120:23"/> it will ſplit in the back and Belly, and both its Sides. But it ſel<g ref="char:EOLhyphen"/>dom does come whole to the Table, but is commonly brought to the Ta<g ref="char:EOLhyphen"/>ble divided into quarters, and each quarter laid in the Diſh with its Tail<g ref="char:EOLhyphen"/>end laid toward the Center of the Diſh, and ſo quarter by quarter round the whole Diſh.</p>
+               <p>Its Sawce is Butter and Vinegar, with Mint and Parſley, Fennel and Sage boil'd well together and minc'd ſmall, and laid in little parcels about the Diſh.</p>
+               <p>For Service, add to each ſome of the Row, whether hard or ſoft.</p>
+               <p>Its Garniſh is Salt and a few green Herbs round the Diſh.</p>
+               <p>
+                  <hi>See the Seven of</hi> Clubs.</p>
+            </div>
+            <div type="subpart">
+               <head>Side of <hi>Green Fiſh.</hi>
+               </head>
+               <p>A Side of <hi>Green Fiſh</hi> is brought to the Table with the skinny-ſide upwards, and is carved into Services
+<pb n="43" facs="tcp:42120:23"/> by ſtraight cuts made from 1 to 2, from 3 to 4, from 5 to 6, <hi>&amp;c.</hi>
+               </p>
+               <p>Its Sawce is hard Eggs minc'd ſmall and beat up with Butter; and ſo pour'd all over the Fiſh.</p>
+               <p>Its Garniſh is the Yolks of hard Eggs cut into quarters, and ſo laid round the brims of the Diſh.</p>
+               <p>
+                  <hi>See the Ace of</hi> Clubs.</p>
+            </div>
+         </div>
+         <div type="part">
+            <head>Fourthly. Of <hi>Baked Meats,</hi> anſwering to the ſuit of <hi>Spades.</hi>
+            </head>
+            <div type="subpart">
+               <head>Of <hi>Paſties</hi> and <hi>Pies</hi> in general.</head>
+               <p>ALl <hi>Paſties</hi> and <hi>Pies</hi> that are made of Fleſh or Fowl, are generally full of Liquor: And if they be not full when they are new baked, then there is com<g ref="char:EOLhyphen"/>monly ſome Cawdle to put to them afterwards; as a <hi>Gooſe-pie,</hi> if it be
+<pb n="44" facs="tcp:42120:24"/> judged not to have Liquor enough in it, it is cuſtomary to melt a pound or a pound and an half of Butter, and pour it in at the Crown of the Lid.</p>
+               <p>But if a <hi>Minc'd Pie</hi> or a <hi>Lumber<g ref="char:EOLhyphen"/>pie</hi> be thought to be too dry, it is cu<g ref="char:EOLhyphen"/>ſtomary to pour a Glaſs or two of French Wine with Sugar or Sack into them to moiſten them. And theſe are general Rules for all <hi>Pies</hi> or <hi>Paſties.</hi>
+               </p>
+            </div>
+            <div type="subpart">
+               <head>The Veniſon-<hi>Paſty.</hi>
+               </head>
+               <p>THe <hi>Veniſon-Paſty,</hi> though it be here drawn with one end long<g ref="char:EOLhyphen"/>er than the other, and the ſides ſlo<g ref="char:EOLhyphen"/>ping away, becauſe the repreſentati<g ref="char:EOLhyphen"/>on of the raiſed Cruſt may the better appear, yet are they made ſquare, with its two oppoſite ſides equal in length to each other. It is opened with a ſquare Cut in the middle of
+<pb n="45" facs="tcp:42120:24"/> the Lid; and from that ſquare Cut you are to cut ſeveral Cuts on each ſide towards the ſides, as you may ſee in the Figure. With your Knife and Fork you are to take out your ſeveral Services of <hi>Veniſon,</hi> and to each Service give one of the Cuts ta<g ref="char:EOLhyphen"/>ken off the Lid.</p>
+               <p>
+                  <hi>See the King of</hi> Spades.</p>
+            </div>
+            <div type="subpart">
+               <head>Red-Deer-Pie.</head>
+               <p>THe <hi>Red-Deer-Pie</hi> hath its Lid cut round about near the ſide of the Pie. And as you ſerve out any of the Meat, you give a piece of the Lid to it with ſome of the Li<g ref="char:EOLhyphen"/>quor if it be hot.</p>
+               <p>
+                  <hi>See the Queen of</hi> Spades.</p>
+            </div>
+            <div type="subpart">
+               <pb n="46" facs="tcp:42120:25"/>
+               <head>The Minc'd-Pies.</head>
+               <p>THe <hi>Minc'd Pies</hi> are either eaten hot or cold. If they be eaten hot, you only take off the Lid, and on a Trencher or Plate with a Spoon lay ſome of the Minc'd-meat for a Service with a piece of the Lid.</p>
+               <p>But if they be eaten cold, you cut them ſtraight down into convenient Services through the Pie to the very bottom, as they are marked in the Figure.</p>
+               <p>
+                  <hi>See the Knave of</hi> Spades.</p>
+            </div>
+            <div type="subpart">
+               <head>The Lamb-Pie.</head>
+               <p>THe <hi>Lamb-pie</hi> is as the <hi>Veniſon-Paſty.</hi>
+               </p>
+               <p>
+                  <hi>See the Eight of</hi> Spades.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
